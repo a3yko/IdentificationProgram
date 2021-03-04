@@ -1,0 +1,28 @@
+﻿Build started 9/13/2014 8:55:14 PM.
+     1>Project "C:\Users\A3yko Gaming\Desktop\Projects\Identification program\Identification program\Identification program\Identification program.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Identification program.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "Identification program.cpp"
+         Identification program.cpp
+     1>c:\users\a3yko gaming\desktop\projects\identification program\identification program\identification program\screen.h(54): warning C4273: 'getch' : inconsistent dll linkage
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\conio.h(131) : see previous definition of 'getch'
+     1>c:\users\a3yko gaming\desktop\projects\identification program\identification program\identification program\screen.h(70): warning C4273: 'getche' : inconsistent dll linkage
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\conio.h(132) : see previous definition of 'getche'
+     1>c:\users\a3yko gaming\desktop\projects\identification program\identification program\identification program\identification program.cpp(538): warning C4129: ' ' : unrecognized character escape sequence
+     1>c:\users\a3yko gaming\desktop\projects\identification program\identification program\identification program\identification program.cpp(540): warning C4129: ' ' : unrecognized character escape sequence
+     1>c:\users\a3yko gaming\desktop\projects\identification program\identification program\identification program\identification program.cpp(542): warning C4129: '|' : unrecognized character escape sequence
+     1>c:\users\a3yko gaming\desktop\projects\identification program\identification program\identification program\identification program.cpp(542): warning C4129: ' ' : unrecognized character escape sequence
+     1>c:\users\a3yko gaming\desktop\projects\identification program\identification program\identification program\identification program.cpp(544): warning C4129: ' ' : unrecognized character escape sequence
+     1>c:\users\a3yko gaming\desktop\projects\identification program\identification program\identification program\identification program.cpp(554): warning C4129: ' ' : unrecognized character escape sequence
+     1>c:\users\a3yko gaming\desktop\projects\identification program\identification program\identification program\identification program.cpp(556): warning C4129: ',' : unrecognized character escape sequence
+     1>c:\users\a3yko gaming\desktop\projects\identification program\identification program\identification program\identification program.cpp(560): warning C4129: ',' : unrecognized character escape sequence
+     1>c:\users\a3yko gaming\desktop\projects\identification program\identification program\identification program\identification program.cpp(564): warning C4129: ' ' : unrecognized character escape sequence
+     1>c:\users\a3yko gaming\desktop\projects\identification program\identification program\identification program\identification program.cpp(572): warning C4129: '_' : unrecognized character escape sequence
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\A3yko Gaming\Desktop\Projects\Identification program\Identification program\Debug\Identification program.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\A3yko Gaming\Desktop\Projects\Identification program\Identification program\Debug\Identification program.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\A3yko Gaming\Desktop\Projects\Identification program\Identification program\Debug\Identification program.lib" /MACHINE:X86 "Debug\Identification program.obj"
+         Debug\stdafx.obj
+         Identification program.vcxproj -> C:\Users\A3yko Gaming\Desktop\Projects\Identification program\Identification program\Debug\Identification program.exe
+     1>Done Building Project "C:\Users\A3yko Gaming\Desktop\Projects\Identification program\Identification program\Identification program\Identification program.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.73
